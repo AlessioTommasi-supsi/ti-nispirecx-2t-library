@@ -1,5 +1,30 @@
 # ti-nispirecx-2t-library
 
+## INSTALLATION LIBRARY GENERAL GUIDE: 
+
+apri sw TINspireCXCASStudentSoftware 
+[Link: ](TINspireCXCASStudentSoftware.exe)
+vedrai una schermata di questo tipo: 
+![alt text](image-1.png)
+
+collega la calcolatrice al pc: 
+
+![alt text](image-3.png)
+
+clicca dove indicati dalla freccia
+
+![alt text](image-4.png)
+
+apri cartella MyLib e drag and drop librerie.
+![alt text](image-6.png)
+una volta fatto apri cartella my lib da calc clissa sulla libreria desiderata poi clicca il tasto Menu.
+
+Seleziona aggiorna Librerie 
+
+
+ una volta fatto la libreria sara installata e potrei vederne le funzioni qui: 
+
+![alt text](image-5.png)
 
 ## LinalgCas Docs
 ### Part1: Linear Algebra
