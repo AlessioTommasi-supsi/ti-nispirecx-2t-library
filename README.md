@@ -3,7 +3,7 @@
 ## INSTALLATION LIBRARY GENERAL GUIDE: 
 
 apri sw TINspireCXCASStudentSoftware 
-[Link: ](TINspireCXCASStudentSoftware.exe)
+[Link: ](https://education.ti.com/download/en/ed-tech/36BE84F974E940C78502AA47492887AB/61B641834EA844DB9A1C02C5A9B53AB7/TINspireCXCASStudentSoftware-6.0.3.374.exe)
 vedrai una schermata di questo tipo: 
 ![alt text](image-1.png)
 
